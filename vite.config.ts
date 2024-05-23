@@ -2,6 +2,6 @@ import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: process.argv.includes('dev') ? '' : "/test",
+    base: process.argv.includes('dev') ? '' : "/kale-23.github.io",
 	plugins: [sveltekit()]
 });

@@ -7,7 +7,7 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : "/test" //process.env.BASE_PATH
+			base: process.argv.includes('dev') ? '' : "/kale-23.github.io" //process.env.BASE_PATH
 		}
 	}
 };
