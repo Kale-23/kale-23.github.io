@@ -1,4 +1,5 @@
 <script>
+    import src from "$lib/assets/star_repeat.svg";
     let name = "Kaleb :)"
 
     const handleClick = () => {
@@ -8,7 +9,7 @@
 
 <div id="app">
     <div id="star-container">
-        <div id="star-pattern"></div>
+        <div id="star-pattern" style="background-image: url({src});"></div>
         <div id="star-gradient"></div>
         <div id="content">
             <a href="./about"> about </a>
@@ -44,7 +45,6 @@
         position: relative;
     }
     #star-pattern {
-        background-image: url("star_repeat.svg");
         background-size: 20%;
         min-width: 120px;
         height: 100%;
