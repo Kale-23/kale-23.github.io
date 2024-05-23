@@ -6,9 +6,9 @@
     }
 </script>
 
-<a href="/about"> About </a>
-<a href="/pic"> pic </a>
-<a href="/"> Home </a>
+<a href="./about"> About </a>
+<a href="./pic"> pic </a>
+<a href="./"> Home </a>
 <div class="index">
     <h2> Testing {name} Stuff </h2>
     <p> This is a test of my stuff </p>
