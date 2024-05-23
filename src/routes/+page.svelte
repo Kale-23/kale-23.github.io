@@ -19,6 +19,6 @@
 <style>
     .index {
         text-align: center;
-        color: red;
+        color: darkblue;
     }
 </style>
