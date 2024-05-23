@@ -19,5 +19,6 @@
     .index {
         text-align: center;
         color: darkblue;
+        size: 20px;
     }
 </style>
