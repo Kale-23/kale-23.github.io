@@ -6,7 +6,7 @@
     }
 </script>
 
-<a href="/about"> About </a>
+<a href="/about"> about </a>
 <a href="/pic"> pic </a>
 <a href="/stuff"> stuff </a>
 <div class="index">
