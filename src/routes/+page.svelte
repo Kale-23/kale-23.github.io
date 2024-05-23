@@ -1,5 +1,5 @@
 <script>
-    let name = "Kaleb"
+    let name = "Kaleb :)"
 
     const handleClick = () => {
         name = "Kaleb is the best"
