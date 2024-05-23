@@ -1,4 +1,3 @@
-<a href="./">Home</a>
 <h1> hello </h1>
 <div class="about">
     <h2> About Me </h2>
